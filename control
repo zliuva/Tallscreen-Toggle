@@ -1,0 +1,9 @@
+Package: com.softboysxp.tallscreen-toggle
+Name: Tall Screen (SBSettings Toggle)
+Depends: sbsettings
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Toggle for the tweak Tall Screen
+Maintainer: softboysxp
+Author: softboysxp
+Section: Addons (SBSettings)
